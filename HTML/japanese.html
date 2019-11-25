@@ -1,0 +1,81 @@
+<html>
+
+<head>
+  <title>Citation Helper</title>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Kosugi|M+PLUS+Rounded+1c|Noto+Serif+JP|Sawarabi+Mincho&display=swap" rel="stylesheet">
+
+  <style>
+    .container {
+      padding: 50px 50px 50px 50px;
+      margin-right: auto;
+      margin-left: auto;
+      width: 95%;
+      max-width: 750px;
+    }
+
+    .text p {
+      font-size: 18px;
+    }
+
+    pre code {
+      padding: 2px 4px;
+      font-size: 90%;
+      color: #c7254e;
+      background-color: #f9f2f4;
+      border-radius: 4px;
+    }
+
+    div#vocab {
+      border: 1px black solid;
+      padding: 1em 2em 1em 2em;
+      margin-top: 1em;
+    }
+
+    p.kanji {
+      font-size: 10em;
+      text-align: center;
+    }
+
+    ol.translation-german {
+      font-size: 3em;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    p.kana {
+      font-size: 2em;
+      text-align: center;
+    }
+
+    button.set-font {
+      margin-top: 1em;
+      margin-left: 1em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <button style="display: none;" id="go">GO</button>
+    <div id="vocab">
+      Vocab shows here
+    </div>
+
+    <button class="set-font" data-font="default">set default</button>
+    <button class="set-font" data-font="MPlusRounded">set M Plus Rounded 1c font</button>
+    <button class="set-font" data-font="Kosugi">set Kosugi font</button>
+    <button class="set-font" data-font="SawarabiMincho">set Sawarabi Mincho font</button>
+    <button class="set-font" data-font="NotoSerifJP">set Noto Serif JP font</button>
+  </div>
+
+  <script type="text/javascript" src="../JS/japanese.js"></script>
+  <script type="text/javascript">
+    console.log('in html');
+    setUp(state)
+  </script>
+</body>
+
+</html>
