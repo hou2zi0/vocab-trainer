@@ -31,17 +31,28 @@ function setUp(state) {
         voiceGeneration(state, 'ja-JP', '.kana');
       }
 
-      const go_button = document.getElementById('go');
-      go_button.addEventListener('click', (e) => {
-        randomVocab(vocab);
-      });
-
       const style_buttons = Array.from(document.getElementsByClassName('set-font'));
       style_buttons.forEach((button) => {
         button.addEventListener('click', (e) => {
           state.currentFont = setFont(e.target.dataset.font, state);
         })
       })
+
+
+      document.body.addEventListener('click', (e) => {
+        if (e.x < (window.innerWidth / 2)) {
+          console.log('left');
+          state.currentIndex = previousVocab(vocab, state);
+        } else {
+          console.log('right');
+          state.currentIndex = nextVocab(vocab, state);
+        }
+      });
+
+      document.querySelector('#outer')
+        .addEventListener('click', (e) => {
+          e.stopPropagation();
+        });
 
       document.body
         .addEventListener('keydown', function(event) {
