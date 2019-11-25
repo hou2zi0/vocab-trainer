@@ -1,0 +1,680 @@
+|kana|kanji|word_type|german|english|phon_row|level
+0|は|歯|(名)|der Zahn|tooth|h|jlpt-1
+1|パーティー||(名)|die Party|party|h|jlpt-1
+2|はい|||Ja|yes|h|jlpt-1
+3|~はい|~杯 |(尾)|Zählwort für Tassen|counter for cupfuls|h|jlpt-1
+4|はいざら|灰皿 |(名)|der Aschenbecher|ashtray|h|jlpt-1
+5|はいる|入る |(動I)|hineingehen; einbrechen; sich einschreiben; beinhalten|to enter/to break into/to join/to enroll/to contain/to hold/to accommodate/to have (an income of)|h|jlpt-1
+6|はがき|葉書 |(名)|die Postkarte|postcard|h|jlpt-1
+7|はく||(動I)|Hosen anziehen|to wear/to put on (a sword)|h|jlpt-1
+8|はこ|箱 |(名)|die Kiste|box|h|jlpt-1
+9|はし|橋 |(名)|die Brücke|bridge|h|jlpt-1
+10|はし||(名)|die Esstäbchen|chopsticks|h|jlpt-1
+11|はじまる|始まる |(動I)|anfangen; beginnen|to begin|h|jlpt-1
+12|はじめに|初めに ||die Einleitung; zu Anfang|to begin with/first of all|h|jlpt-1
+13|はじめて|初めて ||zum ersten Mal|for the first time|h|jlpt-1
+14|はしる|走る ||rennen|to run|h|jlpt-1
+15|バス||(名)|der Bus;das Bad;der Bass|bus/bath/bass|h|jlpt-1
+16|バター||(名)|die Butter|butter|h|jlpt-1
+17|はたち|二十歳 |(名)|zwanzig Jahre alt|20 years old/20th year|h|jlpt-1
+18|はたらく|働く |(動I)|arbeiten; tun; machen|to work/to labor/to do/to act/to commit/to practise/to work on/to come into play/to be conjugated/to reduce the price|h|jlpt-1
+19|はち|八 |(名)|acht|eight|h|jlpt-1
+20|はつか|二十日 |(名)|zwanzig Tage|twenty days/twentieth (day of the month)|h|jlpt-1
+21|はな|花 |(名)|Blume|flower|h|jlpt-1
+22|はな|鼻 |(名)|Nase|nose|h|jlpt-1
+23|はなし|話 |(名)|Geschichte;Gespräch;Unterhaltung|talk/speech/chat/story/conversation|h|jlpt-1
+24|はなす|話す |(動I)|sprechen|to speak|h|jlpt-1
+25|はは|母 |(名)|Mutter|mother|h|jlpt-1
+26|はやい|早い |(形)|früh|early|h|jlpt-1
+27|はやい|速い |(形)|schnell|quick/fast/swift|h|jlpt-1
+28|はる|春 ||Frühling|spring|h|jlpt-1
+29|はる|貼る |(動I)|einfügen;ankleben|to stick/to paste|h|jlpt-1
+30|はれる|晴れる||aufklaren|to be sunny/to clear away/to stop raining|h|jlpt-1
+31|はん|半 |(名)|halb|half|h|jlpt-1
+32|ばん|晩 |(名)|Abend|evening|h|jlpt-1
+33|～ばん|～番 |(尾)|Nummer|number ～|h|jlpt-1
+34|パン||(名)|Brot|bread/panning|h|jlpt-1
+35|ハンカチ||(名)|Taschentuch|handkerchief|h|jlpt-1
+36|ばんごう|番号 |(名)|Nummer|number/series of digits|h|jlpt-1
+37|ばんごはん|晩御飯 |(名)|Abendessen|dinner/evening meal|h|jlpt-1
+38|はんぶん|半分 |(名)|halbe Minute|half minute|h|jlpt-1
+39|ひがし|東 |(名)|Osten|east|h|jlpt-1
+40|~ひき|~匹 |(尾)|Zählwort für kleine Tiere|small animal counter|h|jlpt-1
+41|ひく|引く|(動I)|abziehe;ziehen;(Saiteninstrument) spielen|minus/to pull/to play (stringed instr.)|h|jlpt-1
+42|ひく|弾く|(動I)|(Instrument) spielen|to play (piano, guitar)|h|jlpt-1
+43|ひくい|低い |(形)|kurz;niedrig;tief|short/low/humble/low (voice)|h|jlpt-1
+44|ひこうき|飛行機 |(名)|Flugzeug|airplane|h|jlpt-1
+45|ひだり|左 |(名)|links|left hand side|h|jlpt-1
+46|ひと|人 |(名)|Mensch;Person|man/person/human being/mankind/people/character/personality/true man/man of talent/adult/other people/messenger/visitor|h|jlpt-1
+47|ひとつ|一つ |(名)|eins|one|h|jlpt-1
+48|ひとつき|一月 |(名)|ein Monat|one month|h|jlpt-1
+49|ひとり|一人 |(名)|eine Person|one person|h|jlpt-1
+50|ひま|暇 |(名)|Freizeit|(1) free time/leisure/leave/spare time (2) farewell|h|jlpt-1
+51|ひゃく|百 |(名)|einhundert|100/hundred|h|jlpt-1
+52|びょういん|病院 |(名)|Krankenhaus|hospital|h|jlpt-1
+53|びょうき|病気 |(名)|Krankheit|illness/disease/sickness|h|jlpt-1
+54|ひらがな|平仮名 |(名)|Hiragana-Silbenschrift|"hiragana/47 syllables/the ""cursive"" syllabary"|h|jlpt-1
+55|ひる|昼 |(名)|Mittagszeit|noon/daytime|h|jlpt-1
+56|ひるごはん|昼御飯 |(名)|Mittagessen|lunch/midday meal|h|jlpt-1
+57|ひろい|広い |(形)|weit;geräumig|spacious/vast/wide|h|jlpt-1
+58|フィルム||(名)|Film|film (roll of)|h|jlpt-1
+59|ふうとう|封筒 |(名)|Briefumschlag|envelope|h|jlpt-1
+60|プール||(名)|Pool|swimming pool|h|jlpt-1
+61|フォーク||(名)|Gabel|fork/folk|h|jlpt-1
+62|ふく|吹く|(動I)|blasen des Windes|(1) to blow (e.g. wind) (2) to emit/to spout|h|jlpt-1
+63|ふく|服 |(名)|Kleidung|clothes|h|jlpt-1
+64|ふたつ|二つ |(名)|zwei|two|h|jlpt-1
+65|ぶたにく|豚肉 |(名)|Schweinefleisch|pork|h|jlpt-1
+66|ふたり|二人 |(名)|zwei Personen;Paar|two persons/two people/pair/couple|h|jlpt-1
+67|ふつか|二日 |(名)|zweiter Tag |second day of the month/two days|h|jlpt-1
+68|ふとい|太い |(形)|dick;fett|fat/thick|h|jlpt-1
+69|ふゆ|冬 |(名)|Winter|winter|h|jlpt-1
+70|ふる|降る|(動I)|fallen (von Regen)|to precipitate/to fall (e.g. rain)|h|jlpt-1
+71|ふるい|古い |(形)|alt;antik|old (not of person)/aged/ancient/antiquated/stale/threadbare/outmoded/obsolete article|h|jlpt-1
+72|ふろ|風呂|(名)|Bad|bath|h|jlpt-1
+73|~ふん|~分 |(尾)|Minute|~ minutes|h|jlpt-1
+74|へた|下手|(形)|ungeschickt;schlecht|unskillful, poor, awkward|h|jlpt-1
+75|ベッド||(名)|Bett|bed|h|jlpt-1
+76|へや|部屋|(名)|Raum|room|h|jlpt-1
+77|へん|辺 |(名)|Areal;Nachbarschaft|area, vicinity|h|jlpt-1
+78|ペン||(名)|Stift|pen|h|jlpt-1
+79|べんきょう|勉強 |(名)|Studium|study, diligence, discount, reduction|h|jlpt-1
+80|べんり|便利 |(形)|bequem|convenient, handy, useful|h|jlpt-1
+81|ほう （比較を表す）||(動I)|Vergleich|divide|h|jlpt-1
+82|ぼうし|帽子 |(名)|Hut|hat|h|jlpt-1
+83|ボールペン||(名)|Kugelschreiber|ballpoint pen|h|jlpt-1
+84|ほか|外 |(名)|andere;der Rest|other place/the rest|h|jlpt-1
+85|ポケット||(名)|Tasche (Kleidung)|pocket|h|jlpt-1
+86|ほしい|欲しい|(形)|wollen; brauchen; erwünscht|wanted/wished for/in need of/desired|h|jlpt-1
+87|ほそい|細い |(形)|dünn;schlank|thin/slender/fine|h|jlpt-1
+88|ボタン||(名)|Knopf|button|h|jlpt-1
+89|ホテル||(名)|Hotel|hotel|h|jlpt-1
+90|ほん|本 |(名)|Buch|book|h|jlpt-1
+91|~ほん|~本 |(尾)|Zählwort für zylindrische Gegenstände|counter for long cylindrical things|h|jlpt-1
+92|ほんだな|本棚 |(名)|Buchregal|bookshelves|h|jlpt-1
+93|ほんとうに|本当に|(副)|wirklich|really/truly|h|jlpt-1
+94|~かい|~回|(尾)|~ mal|~th times|k|jlpt-1
+95|~かい|~階|(尾)|~ Etage|~th floor|k|jlpt-1
+96|がいこく|外国|(名)|Ausland|foreign country|k|jlpt-1
+97|がいこくじん|外国人|(名)|Ausländer|foreigner|k|jlpt-1
+98|かいしゃ|会社|(名)|Firma|corporation|k|jlpt-1
+99|かいだん|階段|(名)|Treppe|stairs|k|jlpt-1
+100|かいもの|買い物|(名)|einkaufen|shopping|k|jlpt-1
+101|かう|買う|(動I)|kaufen|buy, shop, purchase|k|jlpt-1
+102|かえす|返す |(動I)|zurückkommen;umdrehen|return, turn over|k|jlpt-1
+103|かえる|帰る|(動I)|zurückkehren|go back, return|k|jlpt-1
+104|かお|顔|(名)|Gesicht|face|k|jlpt-1
+105|かかる （時間がかかる）||(動I)|nehmen;erfordern|take/require (time/money/resource)|k|jlpt-1
+106|かぎ||(名)|Schlüssel|key|k|jlpt-1
+107|かく|書く|(動I)|schreiben|write|k|jlpt-1
+108|がくせい|学生|(名)|Student; Schüler|student|k|jlpt-1
+109|~かげつ|~か月|(尾)|~ Monate|~months|k|jlpt-1
+110|かける （眼鏡をかける）|||Brille tragen|wear (glasses)|k|jlpt-1
+111|かける （電話をかける）|||anrufen|make a phone call|k|jlpt-1
+112|かさ|傘|(名)|Regenschirm|umbrella|k|jlpt-1
+113|かす|貸す|(動I)|mieten|rent, lease|k|jlpt-1
+114|かぜ|風|(名)|Wind;Brise|wind, breeze|k|jlpt-1
+115|かぞく|家族|(名)|Familie|family|k|jlpt-1
+116|かた|（この方）||Richtung;Weg;Person|direction, way, person|k|jlpt-1
+117|かたかな|片仮名 |(名)|Katakana-Silbenschrift|Katakana|k|jlpt-1
+118|~がつ|~月 |(尾)|~ Monat|~month|k|jlpt-1
+119|がっこう|学校 |(名)|Schule|school|k|jlpt-1
+120|かど|角 |(名)|Ecke|corner|k|jlpt-1
+121|かない|家内 |(名)|Ehefrau|wife|k|jlpt-1
+122|かばん||(名)|Tasche|bag|k|jlpt-1
+123|かびん|花瓶 |(名)|Vase|vase|k|jlpt-1
+124|かぶる||(動I)|Kofbedeckung tragen|wear (hat, cap, mask, helmet)|k|jlpt-1
+125|かみ|紙 |(名)|Papier|paper|k|jlpt-1
+126|カメラ||(名)|Kamera|camera|k|jlpt-1
+127|かようび|火曜日 |(名)|Dienstag|Tuesday|k|jlpt-1
+128|からい|辛い |(形)|heiß; würzig|hot, spicy|k|jlpt-1
+129|からだ|体|(名)|Körper|body|k|jlpt-1
+130|かりる|借りる ||ausborgen;leihen|borrow|k|jlpt-1
+131|~がる||(尾)|sich fühlen|to feel ~|k|jlpt-1
+132|かるい|軽い|(形)|Licht|light|k|jlpt-1
+133|カレンダー||(名)|Kalender|calendar|k|jlpt-1
+134|かわ|川 |(名)|Fluss|river|k|jlpt-1
+135|かわ|河 |(名)|Fluss|river|k|jlpt-1
+136|~がわ|~側|(尾)|Seite von ~|~('s) side|k|jlpt-1
+137|かわいい||(形)|süß;niedlich|cute, adorable|k|jlpt-1
+138|かんじ|漢字 |(名)|Kanji|kanji|k|jlpt-1
+139|き|木|(名)|Holz;Baum|wood, tree|k|jlpt-1
+140|きいろい|黄色い|(名)|gelb|yellow|k|jlpt-1
+141|きえる|消える||verschwinden|to vanish|k|jlpt-1
+142|きく|聞く|(動I)|hören|to hear|k|jlpt-1
+143|きた|北 |(名)|Norden|north|k|jlpt-1
+144|ギター||(名)|Gitarre|guitar|k|jlpt-1
+145|きたない|汚い|(形)|dreckig|dirty|k|jlpt-1
+146|きっさてん|喫茶店|(名)|Café|coffee lounge|k|jlpt-1
+147|きって|切手 |(名)|Briefmarke|postage stamp|k|jlpt-1
+148|きっぷ|切符 |(名)|Ticket|ticket|k|jlpt-1
+149|きのう|昨日 |(名)|gestern|yesterday|k|jlpt-1
+150|きゅう|九 |(名)|neun|nine|k|jlpt-1
+151|ぎゅうにく|牛肉 |(名)|Rindfleisch|beef|k|jlpt-1
+152|きょう|今日 |(名)|heute|today|k|jlpt-1
+153|きょうしつ|教室 |(名)|Klassenraum|classroom|k|jlpt-1
+154|きょうだい|兄弟 |(名)|Geschwister|siblings|k|jlpt-1
+155|きょねん|去年 |(名)|letztes Jahr|last year|k|jlpt-1
+156|きらい|嫌い ||nicht mögen;hassen|dislike, hate|k|jlpt-1
+157|きる|切る||schneiden;hacken|to cut, to chop|k|jlpt-1
+158|きる|着る||Kleidung tragen|to wear|k|jlpt-1
+159|きれい||(形)|hübsch;schön;klar|pretty, beautiful, clean|k|jlpt-1
+160|キロ （キログラム）||(名)|Kilogramm|kilogram|k|jlpt-1
+161|キロ （キロメートル）||(名)|Kilometer|kilometer|k|jlpt-1
+162|ぎんこう|銀行|(名)|Bank|bank|k|jlpt-1
+163|きんようび|金曜日|(名)|Freitag|Friday|k|jlpt-1
+164|く|工|(名)|~ Arbeiter;~ Handwerker|~worker, ~smith|k|jlpt-1
+165|くすり|薬|(名)|Medizin|medicine|k|jlpt-1
+166|ください|||bitten um ~|please|k|jlpt-1
+167|くだもの|果物 |(名)|Frucht|fruit|k|jlpt-1
+168|くち|口 |(名)|Mund;Öffnung|mouth, opening, orifice|k|jlpt-1
+169|くつ|靴 |(名)|Schuh|shoes|k|jlpt-1
+170|くつした|靴下 |(名)|Socke;Strumpf|socks|k|jlpt-1
+171|くに|国 |(名)|Land|country|k|jlpt-1
+172|くもる|曇る |(動I)|sich bewölken|to become cloudy/dim|k|jlpt-1
+173|くらい|暗い |(形)|dunkel;unheimlich|dark, gloomy|k|jlpt-1
+174|~くらい||(尾)|ungefähr|approximate (quantity)|k|jlpt-1
+175|クラス||(名)|Klasse|class|k|jlpt-1
+176|グラム||(名)|Gramm|gram|k|jlpt-1
+177|くる|来る|(動I)|kommen|to come|k|jlpt-1
+178|くるま|車|(名)|Auto;Vehikel;Rad|car, vehicle, wheel|k|jlpt-1
+179|くろい|黒い|(名)|schwarz;dunkel|black, dark|k|jlpt-1
+180|けさ|今朝|(名)|diesen Morgen|this morning|k|jlpt-1
+181|けす|消す|(動I)|löschen;ausschalten|to erase, to turn off|k|jlpt-1
+182|けっこう|結構|(形)|fein;toll|splendid, nice, well enough|k|jlpt-1
+183|けっこん|結婚 |(名)|Heirat|marriage|k|jlpt-1
+184|げつようび|月曜日 |(名)|Montag|Monday|k|jlpt-1
+185|げんかん|玄関 |(名)|Eingang;Eingangsbereich|entranceway, entry hall|k|jlpt-1
+186|げんき|元気|(名)|Gesundheit;Energie|health, spirit, energy|k|jlpt-1
+187|~こ|~個|(尾)|Zählwort für militärische Einheiten|counter for military units|k|jlpt-1
+188|ご|五|(名)|fünf|five|k|jlpt-1
+189|~ご|~語 |(尾)|Sprache;Wort|language, word|k|jlpt-1
+190|こうえん|公園 |(名)|Park|(public) park|k|jlpt-1
+191|こうばん|交番 |(名)|kleine Polizei-Station|police box|k|jlpt-1
+192|こえ|声 |(名)|Stimme|voice|k|jlpt-1
+193|コート||(名)|Mantel|coat, tennis court|k|jlpt-1
+194|ここ （指示詞）||(代)|hier;an dieser Stelle|here, this place|k|jlpt-1
+195|ごご|午後|(名)|Nachmittag|afternoon, PM|k|jlpt-1
+196|ここのか|九日 |(名)|neun Tage;der Neunte|nine days, ninth of the month|k|jlpt-1
+197|ここのつ|九つ |(名)|neun|nine|k|jlpt-1
+198|ごしゅじん|御主人 |(名)|Ehemann|husband (hon)|k|jlpt-1
+199|ごぜん|午前 |(名)|Morgen|morning, AM|k|jlpt-1
+200|こたえる|答える ||antworten|to answer, to reply|k|jlpt-1
+201|こちら||(代)|diese Person;diese Richtung;diese Seite|this person, this direction, this side, thereafter|k|jlpt-1
+202|コップ||(名)|Glas|glass|k|jlpt-1
+203|ことし|今年 |(名)|dieses Jahr|this year|k|jlpt-1
+204|ことば|言葉 |(名)|Wort|word, language, speech|k|jlpt-1
+205|こども|子供 |(名)|Kind|child|k|jlpt-1
+206|この|||dies|this|k|jlpt-1
+207|ごはん|御飯 |(名)|gekochter Reis|(cooked) rice|k|jlpt-1
+208|こまる|困る ||sich sorgen; besorgt sein|to be worried/bothered|k|jlpt-1
+209|これ|||dies|this|k|jlpt-1
+210|~ころ||(尾)|Zeit;über;in Richtung; ungefähr|time, about, toward, approx. (time)|k|jlpt-1
+211|こんげつ|今月 |(名)|dieser Monat|this month|k|jlpt-1
+212|こんしゅう|今週 |(名)|diese Woche|this week|k|jlpt-1
+213|こんな|||so ein; etwas derartiges|such, like this|k|jlpt-1
+214|こんばん|今晩 |(名)|diesen Abend;heute Abend|tonight, this evening|k|jlpt-1
+215|~まい|~枚 |(尾)|Zählwort für flache Dinge|counter for flat things|m|jlpt-1
+216|まいあさ|毎朝 |(形)|jeden Morgen|every morning|m|jlpt-1
+217|まいげつ|毎月 |(形)|jeden Monat|every month/each month/monthly|m|jlpt-1
+218|まいつき|毎月 |(形)|jeden Monat|every month/each month/monthly|m|jlpt-1
+219|まいしゅう|毎週 |(形)|jede Woche|every week|m|jlpt-1
+220|まいにち|毎日 |(形)|jeden Tag|every day|m|jlpt-1
+221|まいねん|毎年 |(形)|jedes Jahr;jährlich|every year/yearly/annually|m|jlpt-1
+222|まいとし|毎年 |(形)|jedes Jahr;jährlich|every year/yearly/annually|m|jlpt-1
+223|まいばん|毎晩 |(形)|jede Nacht|every night|m|jlpt-1
+224|まえ|前 ||bevor; vorher; vor|(1) before/in front/fore part/ago/previously (2) head (of a line) (3) in the presence of/lady (so-and-so) (4) (five minutes) to (5) helping/portion|m|jlpt-1
+225|~まえ|~前 |(尾)|bevor; vorher; vor|before/in front|m|jlpt-1
+226|まがる|曲る |(動I)|drehen; wenden|to turn/to bend|m|jlpt-1
+227|まずい||(形)|geschmacklos;schlecht|unappetising/unpleasant (taste, appearance, situation)/ugly/unskilful/awkward/bungling/unwise/untimely|m|jlpt-1
+228|また||(接)|auch|again/and|m|jlpt-1
+229|まだ|||noch|yet/still/more/besides|m|jlpt-1
+230|まち|町 |(名)|Stadt;Straße|(1) town (2) street/road|m|jlpt-1
+231|まつ|待つ|(動I)|warten|to wait|m|jlpt-1
+232|まっすぐ||(形)|geradeaus|straight (ahead)/direct/upright/erect/honest/frank|m|jlpt-1
+233|マッチ||(名)|Spiel (Match)|match|m|jlpt-1
+234|まど|窓 |(名)|Fenster|window|m|jlpt-1
+235|まるい|丸い |(形)|rund|round/circular/spherical|m|jlpt-1
+236|まるい|円い |(形)|rund|round/circular/spherical|m|jlpt-1
+237|まん|万 |(名)|10.000;Myriade|10,000/ten thousand/myriads/all/everything|m|jlpt-1
+238|まんねんひつ|万年筆 |(名)|Füllfederhalter|fountain pen|m|jlpt-1
+239|みがく|磨く |(動I)|polieren;verbessern|to polish/to shine/to brush/to refine/to improve|m|jlpt-1
+240|みぎ|右 |(名)|rechts|right hand side|m|jlpt-1
+241|みじかい|短い |(形)|kurz|short|m|jlpt-1
+242|みず|水 |(名)|Wasser|water|m|jlpt-1
+243|みせ|店 |(名)|Geschäft|store/shop/establishment|m|jlpt-1
+244|みせる|見せる|(動I)|zeigen|to show/to display|m|jlpt-1
+245|みち|道 |(名)|Straße;Methode|road/street/way/method|m|jlpt-1
+246|みっか|三日 |(名)|drei Tage;der dritte Tag|three days/the third day (of the month)|m|jlpt-1
+247|みっつ|三つ |(名)|drei|three|m|jlpt-1
+248|みなさん|皆さん |(名)|jeder|everyone|m|jlpt-1
+249|みなみ|南 |(名)|Süden|south/proceeding south|m|jlpt-1
+250|みみ|耳 |(名)|Ohr|ear|m|jlpt-1
+251|みる|見る|(動I)|sehen;schauen|to see/to watch|m|jlpt-1
+252|みんな|||jeder;alle|all/everyone/everybody|m|jlpt-1
+253|むいか|六日 |(名)|sechs Tage;der sechste Tag|six days/the sixth day (of the month)|m|jlpt-1
+254|むこう|向こう|(名)|jenseits von;dort drüben;entgegengesetzte Richtung|beyond/over there/opposite direction/the other party|m|jlpt-1
+255|むずかしい|難しい |(形)|schwierig|difficult|m|jlpt-1
+256|むっつ|六つ |(名)|sechs|six|m|jlpt-1
+257|め|目|(名)|Auge|eye|m|jlpt-1
+258|メートル||(名)|Meter|meter|m|jlpt-1
+259|めがね|眼鏡|(名)|Brille|glasses|m|jlpt-1
+260|もう （もう、帰りました）|||bereits;wieder;erneut|already/soon/more/again|m|jlpt-1
+261|もう （もう一度）|||bereits;wieder;erneut|already/soon/more/again|m|jlpt-1
+262|もくようび|木曜日 |(名)|Donnerstag|thursday|m|jlpt-1
+263|もしもし||(感)|Hallo! (am Telefon)|hello (on phone)|m|jlpt-1
+264|もちろん|||natürlich|of course/certainly/naturally|m|jlpt-1
+265|もつ|持つ|(動I)|halten;tragen;besitzen|(1) to hold/to carry (2) to possess|m|jlpt-1
+266|もっと|||mehr;länger;weiter|more/longer/farther|m|jlpt-1
+267|もの|物 |(名)|Ding;Objekt|thing/object|m|jlpt-1
+268|もん|門 |(名)|Tor|gate|m|jlpt-1
+269|もんだい|問題 |(名)|Problem;Frage|problem/question|m|jlpt-1
+270|ない|||es gibt nicht;es existiert kein|there isn't, doesn't have|n|jlpt-1
+271|ナイフ||(名)|Messer|knife|n|jlpt-1
+272|なか|中 ||inmitten;mitten;unter|inside, middle, among|n|jlpt-1
+273|ながい|長い |(形)|lang|long|n|jlpt-1
+274|なく|鳴く|(動I)|Tiergeräusche machen|to bark, to purr, to make animal sound|n|jlpt-1
+275|なつ|夏 |(名)|Sommer|summer|n|jlpt-1
+276|なつやすみ|夏休み |(名)|Sommer-Urlaub|summer vacation|n|jlpt-1
+277|~など|||et cetera|et cetera|n|jlpt-1
+278|ななつ|七つ |(名)|sieben|seven|n|jlpt-1
+279|なに|何 ||was?|what|n|jlpt-1
+280|なん|何 ||was?|what|n|jlpt-1
+281|なのか|七日 |(名)|sieben Tage;der siebte Tag|seven days, the seventh day (of the month)|n|jlpt-1
+282|なまえ|名前 |(名)|Name|name|n|jlpt-1
+283|ならう|習う |(動I)|lernen|to learn|n|jlpt-1
+284|ならぶ|並ぶ |(動I)|sich anstellen;Schlange stehen|to line up, to stand in a line|n|jlpt-1
+285|ならべる|並べる ||sich anstellen;Schlange stehen|to line up, to set up|n|jlpt-1
+286|なる||(動I)|werden; werden zu|to become|n|jlpt-1
+287|に|二|(名)|zwei|two|n|jlpt-1
+288|にぎやか||(形)|lebhaft|bustling, busy|n|jlpt-1
+289|にく|肉 |(名)|Fleisch|meat|n|jlpt-1
+290|にし|西 |(名)|Westen|west|n|jlpt-1
+291|~にち|~日 ||Tag des Monats|day of the month|n|jlpt-1
+292|にちようび|日曜日 |(名)|Sonntag|Sunday|n|jlpt-1
+293|にもつ|荷物 |(名)|Gepäck|luggage|n|jlpt-1
+294|ニュース||(名)|Neuigkeiten|news|n|jlpt-1
+295|にわ|庭 |(名)|Garten|garden|n|jlpt-1
+296|~にん|~人 ||Zählwort für Personen|counter for people|n|jlpt-1
+297|ぬぐ|脱ぐ|(動I)|Kleidung ausziehen|to take off clothes|n|jlpt-1
+298|ネクタイ||(名)|Krawatte|necktie|n|jlpt-1
+299|ねる|寝る|(動I)|schlafen;sich hinlegen|to sleep, to lie down|n|jlpt-1
+300|~ねん|~年 |(尾)|~ Jahre|~year(s)|n|jlpt-1
+301|ノート||(名)|Notizbuch|notebook, copybook, exercise book|n|jlpt-1
+302|のぼる|登る |(動I)|klettern|to climb|n|jlpt-1
+303|のみもの|飲み物 |(名)|Getränk|drink, beverage|n|jlpt-1
+304|のむ|飲む|(動I)|trinken|to drink|n|jlpt-1
+305|のる|乗る|(動I)|einsteigen|to get on, to ride in, to board, to mount, to get up on, to share in, to join, to feel like doing, to be mentioned in, to be in harmony with|n|jlpt-1
+306|らいげつ|来月 |(名)|nächster Monat|next month|r|jlpt-1
+307|らいしゅう|来週 |(名)|nächste Woche|next week|r|jlpt-1
+308|らいねん|来年 |(名)|nächstes Jahr|next year|r|jlpt-1
+309|ラジオ||(名)|Radio|radio|r|jlpt-1
+310|りっぱ||(形)|herrlich;prächtig|splendid/fine/handsome/elegant/imposing/prominent/legal/legitimate|r|jlpt-1
+311|りゅうがくせい|留学生 |(名)|Austauschstudent|overseas student|r|jlpt-1
+312|りょうしん|両親 |(名)|Eltern|parents/both parents|r|jlpt-1
+313|りょうり|料理 |(名)|Kochen; (chinesische, deutsche, u.a.) Küche|cooking/cookery/cuisine|r|jlpt-1
+314|りょこう|旅行 |(名)|Reise;Trip|travel/trip|r|jlpt-1
+315|れい|零 |(名)|Null|zero/nought|r|jlpt-1
+316|れいぞうこ|冷蔵庫 |(名)|Kühlschrank|refrigerator|r|jlpt-1
+317|レコード||(名)|Aufnahme|record|r|jlpt-1
+318|レストラン||(名)|Restaurant|restaurant|r|jlpt-1
+319|れんしゅう|練習 |(名)|Übung|practice|r|jlpt-1
+320|ろく|六|(名)|sechs|six|r|jlpt-1
+321|さあ （感動詞）|||Komm schon!|come, come now|s|jlpt-1
+322|~さい|~歳 |(尾)|~ Jahre alt|~years old|s|jlpt-1
+323|さかな|魚 |(名)|Fisch|fish|s|jlpt-1
+324|さき|先 |(名)|die Zukunft;vorherig|the future, priority, precedence, former, previous, old, late|s|jlpt-1
+325|さく|咲く|(動I)|blühen|to bloom|s|jlpt-1
+326|さくぶん|作文 |(名)|Komposition;Schriftstellerei|composition, writing|s|jlpt-1
+327|さす （傘をさす）||(動I)|(Hände, Schirm) heben|to raise (stretch out) hands, to raise umbrella|s|jlpt-1
+328|~さつ|~冊 |(尾)|Zählwort für Bücher|counter for books|s|jlpt-1
+329|ざっし|雑誌 |(名)|Magazin|journal, magazine|s|jlpt-1
+330|さとう|砂糖 |(名)|Zucker|sugar|s|jlpt-1
+331|さむい|寒い |(形)|kalt|cold (weather)|s|jlpt-1
+332|さらいねん|再来年 |(名)|nächstes Jahr|year after next|s|jlpt-1
+333|~さん||(尾)|Herr;Frau|Mr., Mrs., Ms.|s|jlpt-1
+334|さん|三 |(名)|drei|three|s|jlpt-1
+335|さんぽ|散歩 |(名)|gehen|walk, stroll|s|jlpt-1
+336|し|四|(名)|vier|four|s|jlpt-1
+337|~じ|~時|(尾)|~ Uhr (Uhrzeit)|time (o'clock)|s|jlpt-1
+338|しお|塩 |(名)|Salz|salt|s|jlpt-1
+339|しかし||(接)|aber|however, but|s|jlpt-1
+340|じかん|時間 |(名)|Zeit|time|s|jlpt-1
+341|~じかん|~時間 |(尾)|~ Stunden|~ hours|s|jlpt-1
+342|しごと|仕事 |(名)|Arbeit;Job|work, occupation, employment|s|jlpt-1
+343|じしょ|辞書 |(名)|Wörterbuch;Lexikon|dictionary, lexicon|s|jlpt-1
+344|しずか|静か |(形)|still;friedlich|quiet, peaceful|s|jlpt-1
+345|した|下 ||unter|under, below, beneath|s|jlpt-1
+346|しち|七 |(名)|sieben|seven|s|jlpt-1
+347|しつもん|質問 |(名)|Frage|question, inquiry|s|jlpt-1
+348|じてんしゃ|自転車 |(名)|Fahrrad|bicycle|s|jlpt-1
+349|じどうしゃ|自動車 |(名)|Auto|automobile|s|jlpt-1
+350|しぬ|死ぬ|(動I)|sterben|to die|s|jlpt-1
+351|じびき|字引 |(名)|Wörterbuch|dictionary|s|jlpt-1
+352|じぶん|自分 |(名)|ich selbst;jemand selbst|myself, oneself|s|jlpt-1
+353|しまる|閉まる|(動I)|schließen;geschlossen werden|to close, to be closed|s|jlpt-1
+354|しめる|閉める||schließen|to close, to shut|s|jlpt-1
+355|しめる|締める||festziehen;fest machen|to tie, to fasten|s|jlpt-1
+356|じゃ （感動詞）|||Na dann ….|well, well then|s|jlpt-1
+357|じゃあ （感動詞）|||Na dann ….|well, well then|s|jlpt-1
+358|しゃしん|写真 |(名)|Fotographie|photograph|s|jlpt-1
+359|シャツ||(名)|Shirt;Hemd|shirt, singlet|s|jlpt-1
+360|じゅう|十 |(名)|zehn|ten|s|jlpt-1
+361|~しゅうかん|~週間 |(尾)|~ Wochen|~weeks|s|jlpt-1
+362|じゅぎょう|授業 |(名)|Unterrichtsstunde;Unterrichtseinheit|lesson, class work|s|jlpt-1
+363|しゅくだい|宿題 |(名)|Hausaufgabe|homework|s|jlpt-1
+364|じょうず|上手 |(形)|etwas gut können;fähig sein|skill, skillful, dexterity|s|jlpt-1
+365|じょうぶ|丈夫 ||gesund;stark;Gentleman|hero, gentleman, warrior, good health, robustness|s|jlpt-1
+366|しょうゆ|醤油|(名)|Soja-Sauce|soy sauce|s|jlpt-1
+367|しょくどう|食堂 |(名)|Cafeteria|cafeteria, dining hall|s|jlpt-1
+368|しる|知る||wissen;verstehen;kennen|to know, to understand, to be acquainted with, to feel|s|jlpt-1
+369|しろい|白い |(名)|weiß|white|s|jlpt-1
+370|~じん|~人 |(尾)|~ Person|~person|s|jlpt-1
+371|しんぶん|新聞 |(名)|Zeitung|newspaper|s|jlpt-1
+372|すいようび|水曜日 |(名)|Mittwoch|Wednesday|s|jlpt-1
+373|すう|吸う|(動I)|rauchen;atmen|to smoke, to breathe, to suck in|s|jlpt-1
+374|スカート||(名)|Rock|skirt|s|jlpt-1
+375|すき|好き||mögen;lieben|liking, fondness, love|s|jlpt-1
+376|~すぎ|||nach;danach;zu viel|past, after, too much|s|jlpt-1
+377|すぐに|||sofortig|instantly|s|jlpt-1
+378|すこし|少し |(名)|ein wenig|small quantity, little, few, little while, short distance|s|jlpt-1
+379|すずしい|涼しい |(形)|kühl;erfrischend|cool, refreshing|s|jlpt-1
+380|~ずつ||(尾)|nach und nach|apiece, each, at a time|s|jlpt-1
+381|ストーブ||(名)|Heizung|heater|s|jlpt-1
+382|スプーン||(名)|Löffel|spoon|s|jlpt-1
+383|スポーツ||(名)|Sport|sport(s)|s|jlpt-1
+384|ズボン||(名)|Hose|trousers|s|jlpt-1
+385|すむ|住む|(動I)|wohnen|to abide, to reside, to live in, to inhabit, to dwell|s|jlpt-1
+386|スリッパ||(名)|Hausschuhe|slippers|s|jlpt-1
+387|する||(動I)|machen;tun|to do, to try|s|jlpt-1
+388|すわる|座る |(動I)|sitzen|to sit|s|jlpt-1
+389|せい|背 |(名)|Körpergröße;Statur|height, stature|s|jlpt-1
+390|せいと|生徒 |(名)|Schüler|pupil|s|jlpt-1
+391|セーター||(名)|Sweater;Pulli|sweater|s|jlpt-1
+392|せっけん||(名)|Seife|soap|s|jlpt-1
+393|せびろ|背広 |(名)|Anzug|business suit|s|jlpt-1
+394|せまい|狭い |(形)|eng;schmall|narrow, confined, small|s|jlpt-1
+395|ゼロ||(名)|Null|zero|s|jlpt-1
+396|せん|千 |(名)|Tausen;viele|thousand, many|s|jlpt-1
+397|せんげつ|先月 |(名)|letzter Monat|last month|s|jlpt-1
+398|せんしゅう|先週 |(名)|letzte Woche|last week, the week before|s|jlpt-1
+399|せんせい|先生 |(名)|Lehrer;Meister;Doktor|teacher, master, doctor|s|jlpt-1
+400|せんたく|洗濯 |(名)|waschen;Wäsche machen|washing, laundry|s|jlpt-1
+401|ぜんぶ|全部 ||alles;ganz;total|all, entire, whole, altogether|s|jlpt-1
+402|そう （そうです）|||ja|so, really|s|jlpt-1
+403|そうじ|掃除 |(名)|reinigen;wischen|cleaning, sweeping|s|jlpt-1
+404|そうして||(接)|und dann|and, like that|s|jlpt-1
+405|そして||(接)|und|and|s|jlpt-1
+406|そこ （指示詞）||(代)|dort drüben|that place, there|s|jlpt-1
+407|そちら|||dort drüben|over there, the other|s|jlpt-1
+408|そと|外 |(名)|außen;Außerhalb|outside, exterior|s|jlpt-1
+409|その （連体詞）|||das|that, the|s|jlpt-1
+410|そば （窓のそば）|||nah;in der Nähe|near, close, beside, vicinity, proximity, besides, while|s|jlpt-1
+411|そら|空 |(名)|Himmel|the sky|s|jlpt-1
+412|それ （指示詞）||(代)|das|that, it|s|jlpt-1
+413|それから||(接)|und dann;danach|and then, after that|s|jlpt-1
+414|それでは|||dann|in that situation, well then...|s|jlpt-1
+415|~だい|~台 |(尾)|Zählwort für Fahrzeuge|counter for vehicles|t|jlpt-1
+416|だいがく|大学 |(名)|Universität|university|t|jlpt-1
+417|たいしかん|大使館 |(名)|Botschaft|embassy|t|jlpt-1
+418|だいじょうぶ|大丈夫 |(形)|sicher;ok|safe, all right, OK|t|jlpt-1
+419|だいすき|大好き |(形)|etwas sehr mögen|very likeable, liking very much|t|jlpt-1
+420|たいせつ|大切 |(形)|wichtig|important|t|jlpt-1
+421|たいてい|||normalerweise|usually, generally|t|jlpt-1
+422|だいどころ|台所 |(名)|Küche (Raum)|kitchen|t|jlpt-1
+423|たいへん||(形)|schrecklich;sehr|awful, dreadful, terrible, very|t|jlpt-1
+424|たかい|高い |(形)|hoch;teuer|tall, high, expensive|t|jlpt-1
+425|たくさん|||viel|many, a lot, much|t|jlpt-1
+426|タクシー||(名)|Taxi|taxi|t|jlpt-1
+427|だす|出す|(動I)|ausgeben;schicken|to put out, to send|t|jlpt-1
+428|~たち|||Plural-Suffix|(plural suffix) e.g. watashi = I; watashi-tachi = we|t|jlpt-1
+429|たつ|立つ|(動I)|stehen|to stand|t|jlpt-1
+430|たてもの|建物 |(名)|Gebäude|building|t|jlpt-1
+431|たのしい|楽しい |(形)|spaßig|enjoyable, fun|t|jlpt-1
+432|たのむ|頼む |(動I)|fragen;fragen nach etwas|to request, to beg, to ask|t|jlpt-1
+433|たばこ||(名)|Tabak;Zigaretten|tobacco, cigarettes|t|jlpt-1
+434|たぶん|||vielleicht;vermutlich|perhaps, probably|t|jlpt-1
+435|たべもの|食べ物 |(名)|Essen|food|t|jlpt-1
+436|たべる|食べる||essen|to eat|t|jlpt-1
+437|たまご|卵 |(名)|Ei|spawn, eggs, roe|t|jlpt-1
+438|だれ|||wer?|who|t|jlpt-1
+439|たんじょうび|誕生日 |(名)|Geburtstag|birthday|t|jlpt-1
+440|だんだん|||nach und nach|gradually, by degrees|t|jlpt-1
+441|ちいさい|小さい |(形)|klein;winzig|small, little, tiny|t|jlpt-1
+442|ちかい|近い |(形)|nah;in der Nähe;kürzlich|near, close by, short|t|jlpt-1
+443|ちがう|違う |(動I)|verschieden sein|to differ (from)|t|jlpt-1
+444|ちかく|近く |(名)|in der Nähe;Nachbarschaft|near, neighborhood, vicinity|t|jlpt-1
+445|ちかてつ|地下鉄 |(名)|U-Bahn|underground train, subway|t|jlpt-1
+446|ちず|地図|(名)|Karte|map|t|jlpt-1
+447|ちち|父 |(名)|Vater|father (humble)|t|jlpt-1
+448|ちゃいろ|茶色 ||bräunlich|light brown, tawny|t|jlpt-1
+449|ちゃわん||(名)|Reisschüssel;Teetasse|rice bowl, teacup|t|jlpt-1
+450|~ちゅう|~中 ||inmitten;während|middle, during, in the midst of|t|jlpt-1
+451|ちょうど|||genau;exakt|just, right, exactly|t|jlpt-1
+452|ちょっと|||ein bisschen|just a minute, a short time, a while, just a little, somewhat, easily, readily, rather|t|jlpt-1
+453|ついたち|一日 |(名)|erste des Monats|first of the month|t|jlpt-1
+454|つかう|使う |(動I)|benutzen|to use, to handle, to manipulate, to employ, to need, to want, to spend, to consume|t|jlpt-1
+455|つかれる|疲れる ||Müde sein;Müde werden|to get tired, to tire|t|jlpt-1
+456|つぎ|次 |(名)|nächstes Mal;folgend|next, stage, station, subsequent|t|jlpt-1
+457|つく|着く|(動I)|ankommen;erreichen|to arrive at, to reach|t|jlpt-1
+458|つくえ|机 |(名)|Tisch|desk|t|jlpt-1
+459|つくる|作る |(動I)|machen;kreiieren;herstellen|to make, to create, to manufacture, to draw up, to write, to compose, to build, to coin, to cultivate, to organize, to establish|t|jlpt-1
+460|つける|||einschalten;anbringen;hinzufügen|to attach, to join, to add, to append, to stick, to glue, to fasten, to furnish, to wear, to appraise, to bring alongside, to follow|t|jlpt-1
+461|つとめる|勤める ||arbeiten|to serve, to fill a post, to work (for), to exert oneself, to endeavor, to be diligent|t|jlpt-1
+462|つまらない||(形)|langweilig|insignificant, boring, trifling|t|jlpt-1
+463|つめたい|冷たい |(形)|kalt;eisig|cold, icy, freezing, coldhearted|t|jlpt-1
+464|つよい|強い |(形)|stark;kräftig|strong, powerful, mighty, potent|t|jlpt-1
+465|て|手|(名)|Hand|hand|t|jlpt-1
+466|テープ||(名)|Kassette|tape|t|jlpt-1
+467|テープレコーダー||(名)|Kassetten-Recorder|tape recorder|t|jlpt-1
+468|テーブル||(名)|Tisch|table|t|jlpt-1
+469|でかける|出かける||herausgehen;ausgehen|to depart, to go out, to set out, to start|t|jlpt-1
+470|てがみ|手紙 |(名)|Brief|letter|t|jlpt-1
+471|できる （英語ができる）|||in der Lage sein etwas zu tun; bereit sein|to be able to, to be ready, to occur|t|jlpt-1
+472|でぐち|出口 |(名)|Ausgang|exit, gateway, outlet, leak, vent|t|jlpt-1
+473|テスト||(名)|Test|test|t|jlpt-1
+474|では （感動詞）|||Also ….|then, well, so, well then|t|jlpt-1
+475|デパート||(名)|Kaufhaus|department store|t|jlpt-1
+476|でも||(接)|aber|but, however|t|jlpt-1
+477|でる|出る||erscheinen;verlassen|to appear, to come forth, to leave|t|jlpt-1
+478|テレビ||(名)|Fernseher|television, TV|t|jlpt-1
+479|てんき|天気 |(名)|Wetter|weather, the elements|t|jlpt-1
+480|でんき|電気 |(名)|Elektrizität|electricity, (electric) light|t|jlpt-1
+481|でんしゃ|電車 |(名)|Zug|electric train|t|jlpt-1
+482|でんわ|電話 |(名)|Telefon|telephone|t|jlpt-1
+483|と|戸|(名)|Tür|door (Japanese style)|t|jlpt-1
+484|~ど|~度|(尾)|Zählwort für Vorkommen|counter for occurences|t|jlpt-1
+485|ドア||(名)|Tür|door (Western style)|t|jlpt-1
+486|トイレ||(名)|Toilette|toilet, restroom, bathroom, lavatory|t|jlpt-1
+487|どう （副詞）|||Wie?;Auf welche Weise?|how, in what way|t|jlpt-1
+488|どうして|||Warum?;Wozu?|why?, for what reason, how, in what way, for what purpose, what for|t|jlpt-1
+489|どうぞ|||bitte|please, kindly, by all means|t|jlpt-1
+490|どうぶつ|動物 |(名)|Tier|animal|t|jlpt-1
+491|どうも|||Danke|thanks, how, (very) much, very, quite, really, somehow|t|jlpt-1
+492|とお|十 |(名)|zehn|ten|t|jlpt-1
+493|とおい|遠い |(形)|weit weg;weit entfernt|far, distant|t|jlpt-1
+494|とおか|十日 |(名)|zehn Tage;der zehnte Tag|ten days, the 10th of the month|t|jlpt-1
+495|ときどき|時々 ||manchmal|sometimes|t|jlpt-1
+496|とけい|時計 |(名)|Uhr|watch, clock|t|jlpt-1
+497|どこ|||Wo?;An welchem Ort?|where, what place|t|jlpt-1
+498|ところ|所 |(名)|Ort|place|t|jlpt-1
+499|としょかん|図書館 |(名)|Bücherei|library|t|jlpt-1
+500|どちら|||Welches?;Wer?|which (of two), who|t|jlpt-1
+501|とても||(副)|sehr|very, awfully, exceedingly|t|jlpt-1
+502|どなた|||Wer?|who?|t|jlpt-1
+503|となり|隣 ||neben|next to, next door to|t|jlpt-1
+504|どの （どの人）|||Welcher?|which, what (way)|t|jlpt-1
+505|とぶ|飛ぶ||fliegen;springen|to jump, to fly, to leap, to spring, to bound, to hop|t|jlpt-1
+506|とまる|止まる||aufhören;anhalten|to stop, to come to a halt|t|jlpt-1
+507|ともだち|友達 |(名)|Freund|friend|t|jlpt-1
+508|どようび|土曜日 |(名)|Samstag|Saturday|t|jlpt-1
+509|とり|鳥 |(名)|Vogel|bird, fowl, poultry|t|jlpt-1
+510|とりにく|鳥肉 |(名)|Hühnchenfleisch|chicken meat|t|jlpt-1
+511|とる|取る||nehmen;wählen;ernten|to take, to pick up, to harvest, to earn, to choose|t|jlpt-1
+512|とる|撮る||Foto machen;Film drehen|to take (photo), to make (film)|t|jlpt-1
+513|どれ|||Welcher?|well, now, let me see, which (3 or more)|t|jlpt-1
+514|どんな|||was für eine Art von ~|what, what kind of|t|jlpt-1
+515|ああ| |(感)|Oh!|Oh!, Ah!|vowel|jlpt-1
+516|あう|会う|(動I)|treffen|meet|vowel|jlpt-1
+517|あおい|青い|(形)|blau|blue|vowel|jlpt-1
+518|あかい|赤い|(形)|rot|red|vowel|jlpt-1
+519|あかるい|明るい|(形)|hell|bright|vowel|jlpt-1
+520|あき|秋|(名)|Herbst|autumn, fall|vowel|jlpt-1
+521|あく|開く|(動I)|offen;geöffnet werden|open, to be opened|vowel|jlpt-1
+522|あける|開ける|(動II)|öffnen|to open|vowel|jlpt-1
+523|あげる|上げる|(動II)|erhöhen;geben|raise, give|vowel|jlpt-1
+524|あさ|朝|(名)|der Morgen|morning|vowel|jlpt-1
+525|あさごはん|朝御飯|(名)|das Frühstück|breakfast|vowel|jlpt-1
+526|あさって|明後日|(名)|Übermorgen|the day after tomorrow|vowel|jlpt-1
+527|あし|足|(名)|Fuß;Bein|foot, leg|vowel|jlpt-1
+528|あした|明日|(名)|Morgen|tomorrow|vowel|jlpt-1
+529|あそこ|彼処|(代)|dort;dort drüben|there, over there|vowel|jlpt-1
+530|あそぶ|遊ぶ|(動I)|spielen;sich amüsieren|to play, to amuse oneself|vowel|jlpt-1
+531|あたたかい|暖かい|(形)|warm|warm|vowel|jlpt-1
+532|あたま|頭|(名)|Kopf;Gehirn|head, brains|vowel|jlpt-1
+533|あたらしい|新しい|(形)|neu,frisch|new, fresh|vowel|jlpt-1
+534|あちら|彼方|(代)|dort;jenes|there, that|vowel|jlpt-1
+535|あつい|暑い|(形)|heiß;warm|hot (weather, etc), warm|vowel|jlpt-1
+536|あつい|熱い|(形)|heiß;erhitzt|hot (things), heated|vowel|jlpt-1
+537|あつい|厚い|(形)|dick|thick|vowel|jlpt-1
+538|あと|後|(名)|nach;nachher|back, rear, after, later, the rest|vowel|jlpt-1
+539|あなた|貴方|(代)|du|you, dear (what a wife calls a husband)|vowel|jlpt-1
+540|あに|兄|(名)|älterer Bruder|elder brother|vowel|jlpt-1
+541|あね|姉|(名)|ältere Schwester|elder sister|vowel|jlpt-1
+542|あの|彼の|(連体)|jener|that, those|vowel|jlpt-1
+543|あの| |(感)|Ähm.|er, umm, uh|vowel|jlpt-1
+544|アパート| |(名)|Appartement|apartment, apartment building|vowel|jlpt-1
+545|あびる|浴びる|(動II)|baden|to pour on oneself, to bathe in|vowel|jlpt-1
+546|あぶない|危ない|(形)|gefährlich|dangerous|vowel|jlpt-1
+547|あまい|甘い|(形)|süß|sweet|vowel|jlpt-1
+548|あまり|余り|(副)|nicht sehr;nicht viel|not very (with negative sentence), not much|vowel|jlpt-1
+549|あめ|雨|(名)|Regen|rain|vowel|jlpt-1
+550|あらう|洗う|(動I)|waschen|to wash|vowel|jlpt-1
+551|ある| |(動I)|sein;existieren|to be (usu. of inanimate objects), to exist, to be located, to have, to possess, to take place|vowel|jlpt-1
+552|あるく|歩く|(動I)|gehen|to walk|vowel|jlpt-1
+553|あれ| |(代)|jener;das da drüben|that, that one|vowel|jlpt-1
+554|いい|良い|(形)|gut;richtig|good, right, excellent, fine, suitable|vowel|jlpt-1
+555|いいえ| |(感)|nein|no|vowel|jlpt-1
+556|いう|言う|(動I)|sagen;ausdrücken;genannt werden|say, state, express, be said, be called, named|vowel|jlpt-1
+557|いえ|家|(名)|Haus;Familie;Haushalt|house, home, household, family|vowel|jlpt-1
+558|いく|行く|(動I)|gehen|go, come, proceed|vowel|jlpt-1
+559|いくつ|幾つ|(名)|Wie alt?;Wie viele?|how old, how many|vowel|jlpt-1
+560|いくら|幾ら|(名，副)|Wie viel?;nicht viel|how much, how many, hardly any, not much, however~, no matter how~|vowel|jlpt-1
+561|いけ|池|(名)|Teich|pond, pool, basin|vowel|jlpt-1
+562|いしゃ|医者|(名)|Arzt|doctor, physician, surgeon|vowel|jlpt-1
+563|いす| |(名)|Stuhl|chair, sofa|vowel|jlpt-1
+564|いそがしい|忙しい|(形)|beschäftigt sein|be busy, be engaged|vowel|jlpt-1
+565|いたい|痛い|(形)|Schmerzen haben;schmerzen|be painful, be sore, hurts|vowel|jlpt-1
+566|いち|一|(名)|ein|one|vowel|jlpt-1
+567|いちにち|一日|(名)|ein Tag|one day, all day|vowel|jlpt-1
+568|いちばん|一番|(副)|das beste ~|most, best, number one, first|vowel|jlpt-1
+569|いつ| |(名)|Wann?|when|vowel|jlpt-1
+570|いつか|五日|(名)|fünf Tage;der fünfte des Monats|the fifth of the month, five days|vowel|jlpt-1
+571|いっしょに|一緒に|(副)|zusammen|together|vowel|jlpt-1
+572|いつつ|五つ|(名)|fünf Dinge;fünf Jahre alt|five items, five years of age|vowel|jlpt-1
+573|いつも| |(副)|immer|always|vowel|jlpt-1
+574|いま|今|(名)|jetzt;gerade|now, at present, just now, soon|vowel|jlpt-1
+575|いみ|意味|(名，～する)|Bedeutung|meaning, sense, significance|vowel|jlpt-1
+576|いもうと|妹|(名)|jüngere Schwester|younger sister|vowel|jlpt-1
+577|いや|嫌|(形動)|unangenehm;ekelhaft|disagreeable, unpleasant, distasteful, offensive|vowel|jlpt-1
+578|いりぐち|入口|(名)|Eingang|entrance|vowel|jlpt-1
+579|いる|居る|(動II)|sein;existieren;leben;residieren|be, exist, live, reside|vowel|jlpt-1
+580|いる|要る|(動I)|brauchen;nötig haben|need, be necessary|vowel|jlpt-1
+581|いれる|入れる|(動II)|einsetzen;hinzufügen|put in, add, send, include, prepare|vowel|jlpt-1
+582|いろ|色|(名)|Farbe|colour|vowel|jlpt-1
+583|いろいろ| |(副，形動，～の)|einige|various, several|vowel|jlpt-1
+584|うえ|上|(名)|nach oben;oben;Oberseite|up, upward, above, top, higher, superior, older|vowel|jlpt-1
+585|うしろ|後|(名)|Rücken;Rückseite;hinter|the back, the rear, behind, in back of|vowel|jlpt-1
+586|うすい|薄い|(形)|dünn;schwach|thin, weak|vowel|jlpt-1
+587|うた|歌|(名)|Lied|a song, singing|vowel|jlpt-1
+588|うたう|歌う|(動I)|singen|sing|vowel|jlpt-1
+589|うち| |(名)|Haus;Haushalt|a house, a household|vowel|jlpt-1
+590|うまれる|生まれる|(動II)|geboren werden|be born, come into existence|vowel|jlpt-1
+591|うみ|海|(名)|Meer;Ozean|sea, ocean|vowel|jlpt-1
+592|うる|売る|(動I)|verkaufen|to sell|vowel|jlpt-1
+593|うわぎ|上着|(名)|Mantel;Jacke|coat, suit jacket, upper garment, outerwear|vowel|jlpt-1
+594|え|絵|(名)|Bild|picture, painting, drawing|vowel|jlpt-1
+595|えいが|映画|(名)|Film|movie, motion picture|vowel|jlpt-1
+596|えいがかん|映画館|(名)|Kino|a movie theatre|vowel|jlpt-1
+597|えいご|英語|(名)|englische Sprache|English, the English language|vowel|jlpt-1
+598|ええ| |(感)|ja|yes, yeah|vowel|jlpt-1
+599|えき|駅|(名)|Bahnhof;Haltestelle|station|vowel|jlpt-1
+600|エレベーター| |(名)|Aufzug|elevator|vowel|jlpt-1
+601|～えん|～円|(名，尾)|~ Yen|~yen|vowel|jlpt-1
+602|えんぴつ|鉛筆|(名)|Stift|pencil|vowel|jlpt-1
+603|おいしい|美味しい|(形)|köstlich|good-tasting, delicious|vowel|jlpt-1
+604|おおきい|大きい|(形)|groß|big, large, great|vowel|jlpt-1
+605|おおぜい|大勢|(名)|eine Menge an Leuten;große Gruppe|a great number of people, a crowd|vowel|jlpt-1
+606|おかあさん|お母さん|(名)|Mutter|mother|vowel|jlpt-1
+607|おかし|お菓子|(名)|Süßigkeiten|sweets, confectionary, cake, pastry|vowel|jlpt-1
+608|おかね|お金|(名)|Geld|money|vowel|jlpt-1
+609|おきる|起きる|(動I)|aufwachen;aufstehen|wake up, get up; be up, be awake; take place, occur;|vowel|jlpt-1
+610|おく|置く|(動I)|hinstellen;verlassen|put, place, lay, leave|vowel|jlpt-1
+611|おくさん|奥さん|(名)|Ehefrau|wife, married woman|vowel|jlpt-1
+612|おさけ|お酒|(名)|Alkohol|liquor, alcoholic beverage; sake, Japanese rice wine|vowel|jlpt-1
+613|おさら|お皿|(名)|Platte;Teller|dish, plate, saucer, etc|vowel|jlpt-1
+614|おじさん| |(名)|Onkel|uncle, a middle-aged man|vowel|jlpt-1
+615|おじいさん| |(名)|Großvater|grandfather, an old man|vowel|jlpt-1
+616|おしえる|教える|(動II)|lehren;informieren|teach; tell, inform|vowel|jlpt-1
+617|おす|押す|(動I)|drücken;stempeln|push; stamp, seal|vowel|jlpt-1
+618|おそい|遅い|(形)|langsam;spät sein|late; slow|vowel|jlpt-1
+619|おちゃ|お茶|(名)|Tee|tea|vowel|jlpt-1
+620|おてあらい|お手洗い|(名)|Toilette|lavatory, rest room, Ladies' Room, Men's Room|vowel|jlpt-1
+621|おとうさん|お父さん|(名)|Vater|father|vowel|jlpt-1
+622|おとうと|弟|(名)|jüngerer Bruder|younger brother|vowel|jlpt-1
+623|おとこ|男|(名)|Mann;männlich|man, male|vowel|jlpt-1
+624|おとこのこ|男の子|(名)|Junge|boy|vowel|jlpt-1
+625|おととい| |(名)|vorgestern|the day before yesterday|vowel|jlpt-1
+626|おととし| |(名)|vorletztes Jahr|the year before last|vowel|jlpt-1
+627|おとな|大人|(名)|Erwachsener|an adult, a grown up|vowel|jlpt-1
+628|おなか| |(名)|Magen|stomach|vowel|jlpt-1
+629|おなじ|同じ|(形動)|gleich|the same, alike|vowel|jlpt-1
+630|おにいさん|お兄さん|(名)|älterer Bruder|older brother|vowel|jlpt-1
+631|おねえさん|お姉さん|(名)|ältere Schwester|older sister|vowel|jlpt-1
+632|おばさん| |(名)|Tante|aunt; a middle-aged woman, a lady|vowel|jlpt-1
+633|おばあさん| |(名)|Großmutter|grandmother; an elderly lady|vowel|jlpt-1
+634|おべんとう|お弁当|(名)|Lunchbox|box lunch|vowel|jlpt-1
+635|おぼえる|覚える|(動II)|erinnern;lernen|memorize, remember, know; learn, master|vowel|jlpt-1
+636|おもい|重い|(形)|schwer|heavy; severe, grave|vowel|jlpt-1
+637|おもしろい| |(形)|lustig|amusing, funny; pleasant, entertaining; interesting|vowel|jlpt-1
+638|およぐ|泳ぐ|(動I)|schwimmen|swim|vowel|jlpt-1
+639|おりる|降りる|(動II)|aussteigen|get off, disembark|vowel|jlpt-1
+640|おわる|終わる|(動I)|beenden|to end; to finish doing something|vowel|jlpt-1
+641|おんがく|音楽|(名)|Musik|music|vowel|jlpt-1
+642|おんな|女|(名)|Frau;weiblich|woman, female|vowel|jlpt-1
+643|おんなのこ|女の子|(名)|Mädchen|girl|vowel|jlpt-1
+644|ワイシャツ||(名)|Hemd|Y shirt, business shirt|w|jlpt-1
+645|わかい|若い |(形)|jung|young|w|jlpt-1
+646|わかる|分る |(動I)|verstehen;klar werden|to be understood|w|jlpt-1
+647|わすれる|忘れる |(動I)|vergessen|to forget|w|jlpt-1
+648|わたくし|私 |(代)|ich|I|w|jlpt-1
+649|わたし|私|(代)|ich|I|w|jlpt-1
+650|わたす|渡す |(動I)|etwas überreichen|to pass over, to hand over|w|jlpt-1
+651|わたる|渡る |(動I)|hinübergehen|to cross over/to go across|w|jlpt-1
+652|わるい|悪い |(形)|schlecht|bad/inferior|w|jlpt-1
+653|~や|~屋|(尾)|~ Geschäft|~store|y|jlpt-1
+654|やおや|八百屋|(名)|Gemüsehändler|greengrocer|y|jlpt-1
+655|やさい|野菜 |(名)|Gemüse|vegetable|y|jlpt-1
+656|やさしい|易しい |(形)|leicht;einfach|easy/plain/simple|y|jlpt-1
+657|やすい|安い |(形)|günstig;ruhig|cheap/inexpensive/peaceful/quiet/gossipy/thoughtless|y|jlpt-1
+658|やすみ|休み |(名)|sich ausruhen;Urlaub machen|(1) rest/recess/respite/(2) vacation/holiday/absence/suspension/(3) moulting|y|jlpt-1
+659|やすむ|休む ||sich ausruhen|to rest/to have a break/to take a day off/to be finished/to be absent/to retire/to sleep|y|jlpt-1
+660|やっつ|八つ |(名)|acht|eight|y|jlpt-1
+661|やま|山 |(名)|Berg|(1) mountain/(2) pile/heap/(3) climax/critical point|y|jlpt-1
+662|やる （仕事をやる）||(動I)|tun;machen;treiben|to do/to have sexual intercourse/to kill/to give (to inferiors, animals, etc.)/to dispatch (a letter)/to send/to study/to perform/to play (sports, game)/to have (eat, drink, smoke)/to row (a boat)/to run or operate (a restaurant)|y|jlpt-1
+663|ゆうがた|夕方 ||Abend|evening|y|jlpt-1
+664|ゆうびんきょく|郵便局 |(名)|Post-Amt|post office|y|jlpt-1
+665|ゆうべ （’昨晩’の意）|||Abend|evening|y|jlpt-1
+666|ゆうめい|有名 |(名)|berühmt|fame|y|jlpt-1
+667|ゆき|雪 |(名)|Schnee|snow|y|jlpt-1
+668|ゆっくり|||langsam|slowly, at ease|y|jlpt-1
+669|ようか|八日 |(名)|acht Tage;der achte Tag|eight days/the eighth (day of the month)|y|jlpt-1
+670|ようふく|洋服 |(名)|westliche Kleidung|Western-style clothes|y|jlpt-1
+671|よく （よく行く）|||häufig;oft|frequently, often|y|jlpt-1
+672|よく （よくできる）|||nett;gut;etwas gut können|nice/properly/well/skilled in|y|jlpt-1
+673|よこ|横 ||Seite;Weite|beside/side/width|y|jlpt-1
+674|よっか|四日 |(名)|vier Tage;der vierte Tag|four days/the fourth (day of the month)|y|jlpt-1
+675|よっつ|四つ |(名)|vier|four|y|jlpt-1
+676|よぶ|呼ぶ|(動I)|anrufen|to call out/to invite|y|jlpt-1
+677|よむ|読む|(動I)|lesen|to read|y|jlpt-1
+678|よる|夜|(名)|Abend;Nacht|evening/night|y|jlpt-1

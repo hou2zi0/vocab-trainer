@@ -1,0 +1,171 @@
+<html>
+
+<head>
+  <title>Citation Helper</title>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Long+Cang|Ma+Shan+Zheng|ZCOOL+QingKe+HuangYou|Zhi+Mang+Xing&display=swap" rel="stylesheet">
+
+  <style>
+    .container {
+      padding: 50px 50px 50px 50px;
+      margin-right: auto;
+      margin-left: auto;
+      width: 95%;
+    }
+
+    .text p {
+      font-size: 18px;
+    }
+
+    pre code {
+      padding: 2px 4px;
+      font-size: 90%;
+      color: #c7254e;
+      background-color: #f9f2f4;
+      border-radius: 4px;
+    }
+
+    div#vocab {
+      border: 1px black solid;
+      padding: 1em 2em 1em 2em;
+      margin-top: 1em;
+      text-align: center;
+    }
+
+    p.hanzi {
+      font-size: 10em;
+    }
+
+    p.translation {
+      font-size: 3em;
+    }
+
+    p.pinyin {
+      font-size: 2em;
+    }
+
+    button.set-font {
+      margin-top: 1em;
+      margin-left: 1em;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <button style="display: none;" id="go">GO</button>
+    <div id="vocab">
+      Vocab shows here
+    </div>
+
+    <button class="set-font" data-font="default">set default</button>
+    <button class="set-font" data-font="MaShanZheng">set Ma Shan Zheng font</button>
+    <button class="set-font" data-font="LongCang">set Long Cang font</button>
+    <button class="set-font" data-font="QingKeHuangYou">set ZCOOL QingKe HuangYou font</button>
+    <button class="set-font" data-font="ZhiMangXing">set Zhi Mang Xing font</button>
+  </div>
+
+  <script type="text/javascript" src="../JS/citation-helper.js"></script>
+  <script type="text/javascript">
+    console.log('in html');
+
+    const vocab = [{
+        "simple": "爱 ",
+        "traditional": "愛",
+        "pinyin": "ài",
+        "german": "lieben; die Liebe",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%84%9B#Chinese"
+      },
+      {
+        "simple": "八 ",
+        "traditional": "八 ",
+        "pinyin": "bā",
+        "german": "acht",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E5%85%AB#Chinese"
+      },
+      {
+        "simple": "爸爸 ",
+        "traditional": "爸爸 ",
+        "pinyin": "bàba",
+        "german": "Papa",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E7%88%B8%E7%88%B8#Chinese"
+      },
+      {
+        "simple": "杯子 ",
+        "traditional": "杯子 ",
+        "pinyin": "bēizi",
+        "german": "Tasse",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%9D%AF%E5%AD%90#Chinese"
+      },
+      {
+        "simple": "北京",
+        "traditional": "北京",
+        "pinyin": "Běijīng",
+        "german": "Peking",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E5%8C%97%E4%BA%AC#Chinese"
+      },
+      {
+        "simple": "本 ",
+        "traditional": "本 ",
+        "pinyin": "běn",
+        "german": "Zählwort für Bücher",
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%9C%AC#Chinese"
+      }
+    ]
+
+    let state = {
+      "currentIndex": 0,
+      "currentFont": "default",
+      "fonts": {
+        "MaShanZheng": "font-family: 'Ma Shan Zheng', cursive;",
+        "LongCang": "font-family: 'Long Cang', cursive;",
+        "default": "",
+        "QingKeHuangYou": "font-family: 'ZCOOL QingKe HuangYou', cursive;",
+        "ZhiMangXing": "font-family: 'Zhi Mang Xing', cursive;"
+      }
+    }
+
+    const go_button = document.getElementById('go');
+    go_button.addEventListener('click', (e) => {
+      randomVocab(vocab);
+    });
+
+    const style_buttons = Array.from(document.getElementsByClassName('set-font'));
+    style_buttons.forEach((button) => {
+      button.addEventListener('click', (e) => {
+        state.currentFont = setFont(e.target.dataset.font, state);
+      })
+    })
+
+
+
+    document.body
+      .addEventListener('keydown', function(event) {
+        // Add arrow key navigation through sources
+        switch (event.keyCode) {
+          case 37:
+            console.log('Left key pressed');
+            state.currentIndex = previousVocab(vocab, state);
+            break;
+          case 38:
+            console.log('Up key pressed');
+            state.currentIndex = previousVocab(vocab, state);
+            break;
+          case 39:
+            console.log('Right key pressed');
+            state.currentIndex = nextVocab(vocab, state);
+            break;
+          case 40:
+            console.log('Down key pressed');
+            state.currentIndex = nextVocab(vocab, state);
+            break;
+        }
+      });
+
+    setVocab(vocab, state.currentIndex, state);
+  </script>
+</body>
+
+</html>
