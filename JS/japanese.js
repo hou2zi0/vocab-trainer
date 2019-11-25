@@ -86,7 +86,9 @@ function setVocab(vocab, index, state) {
   let html = `
   ${buildKanaKanjiField(item, state)}
   ${buildListField(item.translation.german, ';', 'translation-german',' translation-german-item')}
-  <p class="wiktionary">More information on <a href="https://en.wiktionary.org/wiki/${item.kanji}#Japanese">Wiktionary</a></p>
+  <hr>
+  ${buildWiktionaryLink(item.kanji,item.kana)}
+  ${buildDictionaryLinks('jisho', [item.kana, item.kanji])}
   `;
   vocab_area.innerHTML = html;
 }
@@ -163,10 +165,44 @@ function voiceGeneration(state, langCode, query) {
             let utter = new SpeechSynthesisUtterance();
             utter.voice = voice;
             utter.text = document.querySelector(query)
-              .textContent;
+              .textContent.replace('～', '');
             window.speechSynthesis.speak(utter);
             break;
         }
       })
   });
+}
+
+function buildWiktionaryLink(field, fallback) {
+  if (field == '') {
+    return `<p class="wiktionary">More information about ${fallback} on <a href="https://en.wiktionary.org/wiki/${fallback}#Japanese">Wiktionary</a></p>`;
+  } else {
+    return `<p class="wiktionary">More information about ${field} on <a href="https://en.wiktionary.org/wiki/${field}#Japanese">Wiktionary</a></p>`;
+  }
+}
+
+function buildDictionaryLinks(dictionary, arrayOfFields) {
+  const dicts = {
+    "jisho": {
+      "search": "https://jisho.org/search/",
+      "main_url": "https://jisho.org/",
+      "name": "Jisho"
+    }
+  }
+
+  const links = arrayOfFields.map((field) => {
+    if (field !== '') {
+      return `<li class="${dictionary}-item">Loopk up <a href="${dicts[dictionary].search}${field}">${field}</a> on <a href="${dicts[dictionary].main_url}">${dicts[dictionary].name}</a></li>`;
+    } else {
+      return '';
+    }
+  });
+
+  if (links.join('') == '') {
+    return '';
+  } else {
+    return `<ul class="${dictionary}">
+      ${links.join('\n')}
+    </ul>`;
+  }
 }
