@@ -84,7 +84,7 @@ function setVocab(vocab, index, state) {
   let item = vocab[index];
   let vocab_area = document.getElementById('vocab');
   let html = `
-  ${buildKanaKanjiField(item)}
+  ${buildKanaKanjiField(item, state)}
   ${buildListField(item.translation.german, ';', 'translation-german',' translation-german-item')}
   <p class="wiktionary">More information on <a href="https://en.wiktionary.org/wiki/${item.kanji}#Japanese">Wiktionary</a></p>
   `;
@@ -131,13 +131,13 @@ function buildListField(field, separator, ulClass, liClass) {
   return builtField;
 }
 
-function buildKanaKanjiField(item) {
+function buildKanaKanjiField(item, state) {
   if (item.kanji == '') {
-    return `<p class="kana" style="${state.fonts[state.currentFont]}">${item.kana}</p>
-    <p class="kanji">${item.kana}</p>`;
+    return `<p class="kana">${item.kana}</p>
+    <p class="kanji" style="${state.fonts[state.currentFont]}">${item.kana}</p>`;
   } else {
-    return `<p class="kana" style="${state.fonts[state.currentFont]}">${item.kana}</p>
-    <p class="kanji">${item.kanji}</p>`;
+    return `<p class="kana">${item.kana}</p>
+    <p class="kanji" style="${state.fonts[state.currentFont]}">${item.kanji}</p>`;
   }
 }
 
