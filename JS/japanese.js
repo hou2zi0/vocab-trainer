@@ -101,7 +101,17 @@ function setVocab(vocab, index, state) {
   ${buildWiktionaryLink(item.kanji,item.kana)}
   ${buildDictionaryLinks('jisho', [item.kana, item.kanji])}
   `;
+
   vocab_area.innerHTML = html;
+
+  document.querySelector('.kanji')
+    .addEventListener('click', (e) => {
+      let utter = new SpeechSynthesisUtterance();
+      utter.voice = state.voice;
+      utter.text = document.querySelector('.kanji')
+        .textContent.replace(/[~～]/, '');
+      window.speechSynthesis.speak(utter);
+    })
 }
 
 function randomVocab(vocab, state) {
@@ -157,15 +167,14 @@ function buildKanaKanjiField(item, state) {
 function voiceGeneration(state, langCode, query) {
   window.speechSynthesis.addEventListener('voiceschanged', function() {
     state.available_voices = window.speechSynthesis.getVoices();
-    let oice = '';
     // find voice by language locale "en-US"
     // if not then select the first voice
-    voice = state.available_voices.filter((i) => {
+    state.voice = state.available_voices.filter((i) => {
       return i.lang === langCode;
     })[0];
 
-    if (voice === '') {
-      voice = state.available_voices[0];
+    if (state.voice === '') {
+      state.voice = state.available_voices[0];
     }
 
     document.body
@@ -174,21 +183,22 @@ function voiceGeneration(state, langCode, query) {
         switch (event.keyCode) {
           case 32:
             let utter = new SpeechSynthesisUtterance();
-            utter.voice = voice;
+            utter.voice = state.voice;
             utter.text = document.querySelector(query)
-              .textContent.replace('～', '');
+              .textContent.replace(/[~～]/, '');
             window.speechSynthesis.speak(utter);
             break;
         }
       })
+
   });
 }
 
 function buildWiktionaryLink(field, fallback) {
   if (field == '') {
-    return `<p class="wiktionary">More information about ${fallback} on <a href="https://en.wiktionary.org/wiki/${fallback}#Japanese">Wiktionary</a></p>`;
+    return `<p class="wiktionary">More information about ${fallback} on <a href="https://en.wiktionary.org/wiki/${fallback.replace(/[~～]/, '').trim()}#Japanese">Wiktionary</a></p>`;
   } else {
-    return `<p class="wiktionary">More information about ${field} on <a href="https://en.wiktionary.org/wiki/${field}#Japanese">Wiktionary</a></p>`;
+    return `<p class="wiktionary">More information about ${field} on <a href="https://en.wiktionary.org/wiki/${field.replace(/[~～]/, '').trim()}#Japanese">Wiktionary</a></p>`;
   }
 }
 
@@ -203,7 +213,7 @@ function buildDictionaryLinks(dictionary, arrayOfFields) {
 
   const links = arrayOfFields.map((field) => {
     if (field !== '') {
-      return `<li class="${dictionary}-item">Loopk up <a href="${dicts[dictionary].search}${field}">${field}</a> on <a href="${dicts[dictionary].main_url}">${dicts[dictionary].name}</a></li>`;
+      return `<li class="${dictionary}-item">Loopk up <a href="${dicts[dictionary].search}${field.replace(/[~～]/, '').trim()}">${field}</a> on <a href="${dicts[dictionary].main_url}">${dicts[dictionary].name}</a></li>`;
     } else {
       return '';
     }
