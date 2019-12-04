@@ -13,7 +13,7 @@ let state = {
 
 function setUp(state) {
 
-  const vocab = fetch('https://raw.githubusercontent.com/hou2zi0/vocab-trainer/master/data/japanese/jlpt_level_01_all.json')
+  const vocab = fetch('https://raw.githubusercontent.com/hou2zi0/vocab-trainer/master/data/japanese/jlpt_level_N5_all.json')
     .then(r => r.text())
     .then(t => JSON.parse(t))
     .then((vocab) => {
