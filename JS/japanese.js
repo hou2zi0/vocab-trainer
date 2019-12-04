@@ -108,7 +108,7 @@ function setVocab(vocab, index, state) {
     .addEventListener('click', (e) => {
       let utter = new SpeechSynthesisUtterance();
       utter.voice = state.voice;
-      utter.text = document.querySelector('.kanji')
+      utter.text = document.querySelector('.kana')
         .textContent.replace(/[~～]/, '');
       window.speechSynthesis.speak(utter);
     })
@@ -213,7 +213,7 @@ function buildDictionaryLinks(dictionary, arrayOfFields) {
 
   const links = arrayOfFields.map((field) => {
     if (field !== '') {
-      return `<li class="${dictionary}-item">Loopk up <a href="${dicts[dictionary].search}${field.replace(/[~～]/, '').trim()}">${field}</a> on <a href="${dicts[dictionary].main_url}">${dicts[dictionary].name}</a></li>`;
+      return `<li class="${dictionary}-item">Look up <a href="${dicts[dictionary].search}${field.replace(/[~～]/, '').trim()}">${field}</a> on <a href="${dicts[dictionary].main_url}">${dicts[dictionary].name}</a></li>`;
     } else {
       return '';
     }
