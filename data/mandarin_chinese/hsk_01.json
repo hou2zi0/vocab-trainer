@@ -1,1 +1,44 @@
-[{"simple": "\u7231 ", "traditional": "\u611b", "pinyin": "\u00e0i", "german": "lieben; die Liebe", "wiktionary": "https://en.wiktionary.org/wiki/%E6%84%9B#Chinese"}, {"simple": "\u516b ", "traditional": "\u516b ", "pinyin": "b\u0101", "german": "acht", "wiktionary": "https://en.wiktionary.org/wiki/%E5%85%AB#Chinese"}, {"simple": "\u7238\u7238 ", "traditional": "\u7238\u7238 ", "pinyin": "b\u00e0ba", "german": "Papa", "wiktionary": "https://en.wiktionary.org/wiki/%E7%88%B8%E7%88%B8#Chinese"}, {"simple": "\u676f\u5b50 ", "traditional": "\u676f\u5b50 ", "pinyin": "b\u0113izi", "german": "Tasse", "wiktionary": "https://en.wiktionary.org/wiki/%E6%9D%AF%E5%AD%90#Chinese"}, {"simple": "\u5317\u4eac", "traditional": "\u5317\u4eac", "pinyin": "B\u011bij\u012bng", "german": "Peking", "wiktionary": "https://en.wiktionary.org/wiki/%E5%8C%97%E4%BA%AC#Chinese"}, {"simple": "\u672c ", "traditional": "\u672c ", "pinyin": "b\u011bn", "german": "Z\u00e4hlwort f\u00fcr B\u00fccher", "wiktionary": "https://en.wiktionary.org/wiki/%E6%9C%AC#Chinese"}]
+[
+    {
+        "simple": "爱 ",
+        "traditional": "愛",
+        "pinyin": "ài",
+        "translation": {"german": "lieben; die Liebe"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%84%9B#Chinese"
+    },
+    {
+        "simple": "八 ",
+        "traditional": "八 ",
+        "pinyin": "bā",
+        "translation": {"german": "acht"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E5%85%AB#Chinese"
+    },
+    {
+        "simple": "爸爸 ",
+        "traditional": "爸爸 ",
+        "pinyin": "bàba",
+        "translation": {"german": "Papa"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E7%88%B8%E7%88%B8#Chinese"
+    },
+    {
+        "simple": "杯子 ",
+        "traditional": "杯子 ",
+        "pinyin": "bēizi",
+        "translation": {"german": "Tasse"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%9D%AF%E5%AD%90#Chinese"
+    },
+    {
+        "simple": "北京",
+        "traditional": "北京",
+        "pinyin": "Běijīng",
+        "translation": {"german": "Peking"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E5%8C%97%E4%BA%AC#Chinese"
+    },
+    {
+        "simple": "本 ",
+        "traditional": "本 ",
+        "pinyin": "běn",
+        "translation": {"german": "Zählwort für Bücher"},
+        "wiktionary": "https://en.wiktionary.org/wiki/%E6%9C%AC#Chinese"
+    }
+]
