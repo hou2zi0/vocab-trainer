@@ -13,6 +13,16 @@ let state = {
 
 function setUp(state) {
 
+  voiceGeneration(state, 'ja').then((p) => {
+    console.log(p);
+    state.voice = p.filter((i) => {
+        return i.lang === 'ja';
+      })[0];
+  
+      
+      console.log(state.voice);
+}); // 1;
+
   const vocab = fetch('https://raw.githubusercontent.com/hou2zi0/vocab-trainer/master/data/japanese/jlpt_level_N5_all.json')
     .then(r => r.text())
     .then(t => JSON.parse(t))
@@ -24,12 +34,7 @@ function setUp(state) {
     .then((vocab) => {
 
       // list of languages is probably not loaded, wait for it
-      if (window.speechSynthesis.getVoices()
-        .length == 0) {
-        voiceGeneration(state, 'ja-JP', '.kana');
-      } else {
-        voiceGeneration(state, 'ja-JP', '.kana');
-      }
+      
 
       const style_buttons = Array.from(document.getElementsByClassName('set-font'));
       style_buttons.forEach((button) => {
@@ -164,34 +169,14 @@ function buildKanaKanjiField(item, state) {
   }
 }
 
-function voiceGeneration(state, langCode, query) {
+async function voiceGeneration(state, langCode) {
   window.speechSynthesis.addEventListener('voiceschanged', function() {
     state.available_voices = window.speechSynthesis.getVoices();
+    console.log(state.available_voices);
     // find voice by language locale "en-US"
     // if not then select the first voice
-    state.voice = state.available_voices.filter((i) => {
-      return i.lang === langCode;
-    })[0];
-
-    if (state.voice === '') {
-      state.voice = state.available_voices[0];
-    }
-
-    document.body
-      .addEventListener('keydown', function(event) {
-        // Add arrow key navigation through sources
-        switch (event.keyCode) {
-          case 32:
-            let utter = new SpeechSynthesisUtterance();
-            utter.voice = state.voice;
-            utter.text = document.querySelector(query)
-              .textContent.replace(/[~～]/, '');
-            window.speechSynthesis.speak(utter);
-            break;
-        }
-      })
-
   });
+  return window.speechSynthesis.getVoices();
 }
 
 function buildWiktionaryLink(field, fallback) {
