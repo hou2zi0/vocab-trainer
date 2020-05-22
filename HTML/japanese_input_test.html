@@ -1,0 +1,150 @@
+<html>
+
+<head>
+  <title>JLPT N5 – Japanese Vocabulary</title>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Kosugi|M+PLUS+Rounded+1c|Noto+Serif+JP|Sawarabi+Mincho&display=swap" rel="stylesheet">
+
+  <style>
+    .container_flex {
+      padding: 50px 50px 50px 50px;
+      margin: auto;
+      justify-content: center;
+      display: flex;
+      align-items: flex-start;
+    }
+
+    .container {
+      padding: 5px 50px 5px 50px;
+      width: 100%;
+      text-align: center;
+    }
+
+    .text p {
+      font-size: 18px;
+    }
+
+    pre code {
+      padding: 2px 4px;
+      font-size: 90%;
+      color: #c7254e;
+      background-color: #f9f2f4;
+      border-radius: 4px;
+    }
+
+    div#vocab {
+      border: 1px black solid;
+      padding: 1em 2em 1em 2em;
+      margin-top: 1em;
+    }
+
+    p.kanji {
+      font-size: 10em;
+      text-align: center;
+    }
+
+    ol.translation-german {
+      font-size: 2.5em;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    p.kana {
+      font-size: 2.5em;
+      text-align: center;
+      margin-bottom: 0px;
+    }
+
+    button.set-font {
+      margin-top: 1em;
+      margin-left: 1em;
+    }
+
+    .wiktionary {
+      font-size: 1.5em;
+    }
+
+    .jisho {
+      font-size: 1.5em;
+    }
+
+    .nav-buttons {
+      margin-top: 1em;
+      text-align: center;
+    }
+
+
+    #left {
+      width: 9%;
+    }
+
+    #right {
+      width: 9%;
+    }
+
+    #outer {
+      width: 80%;
+    }
+
+    #meta {
+      font-size: 0.8em;
+      color: grey;
+    }
+
+.shake {
+  /* Start the shake animation and make the animation last for 0.5 seconds */
+  animation: shake 0.5s;
+
+  /* When the animation is finished, start again */
+  animation-iteration-count: initial;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+  </style>
+</head>
+
+<body>
+  <div class="container_flex">
+    <div id="left"></div>
+    <div id="outer">
+      <div id="vocab">
+      <p id="kana" class="kana"></p>
+      <p id="kanji" class="kanji"></p>
+      <p style="text-align: center;"><input type="text" id="text-input" style="min-width: 500px; font-size: 3em;"/></p>
+      <p style="text-align: center;"><button id="submit" style="text-align: center;">submit</button></p>
+      </div>
+
+      
+    </div>
+    <div id="right"></div>
+  </div>
+  <div id="meta" class="container">
+    Download the vocabulary data set of JLPT N5 as <a href="https://github.com/hou2zi0/vocab-trainer/blob/master/data/japanese/jlpt_level_N5_all.json">JSON</a>.
+    The vocabulary data set is derived from the vocabulary given in the <a href="https://en.wikibooks.org/wiki/JLPT_Guide">Wikibooks</a> <a href="https://en.wikibooks.org/wiki/JLPT_Guide/JLPT_N5_Vocabulary">JLPT Guide/JLPT N5 Vocabulary</a>. The text
+    given by Wikibooky as well as the vocabulary data set is
+    available under the Creative Commons <a href="https://creativecommons.org/licenses/by-sa/3.0/">Attribution-ShareAlike</a> License.
+  </div>
+
+
+  <script type="text/javascript" src="../JS/japanese_input_test.js"></script>
+  <script type="text/javascript">
+    console.log('in html');
+    setUp(state)
+  </script>
+</body>
+
+</html>
